@@ -18,7 +18,7 @@ Imagine we're building a movie app for users to keep track of their favorite mov
 
 ## But Where Do I Write My Code?
 
-By convention in Redux, we write our action creator functions in a folder called `actions`. For a small project, we can define all of the actions in a single file file called `index` and export them as named exports.
+By convention in Redux, we write our action creator functions in a folder called `actions`. For a small project, we can define all of the actions in a single file called `index` and export them as named exports.
 
 For example:
 
